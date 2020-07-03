@@ -1,7 +1,9 @@
-/*TODO____________
+/*
+TODO____________
 clean up the auto unmute : 16-30
 clean up reminders : 32-47
-finish learning mongodb and replace quick.db with it*/
+finish learning mongodb and replace quick.db with it
+*/
 
 const Discord = require("discord.js"),
     client = new Discord.Client({
